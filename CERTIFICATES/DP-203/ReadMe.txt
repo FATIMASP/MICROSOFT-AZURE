@@ -1,8 +1,8 @@
 COURSE TITLE: Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate
           Main Course Link: https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering
           
-The above course is split into following modules which can be completed individually without signing up for the entire course.
-It is advisable to sign up for one module at a time using the links below:
+The above course is split into following modules which can be completed individually without signing up for the entire course
+          [It is advisable to sign up for one module at a time using the links below]:
 
 MODULE 1: Microsoft Azure for Data Engineering 
           Link: https://www.coursera.org/learn/microsoft-azure-dp-203-data-engineering
